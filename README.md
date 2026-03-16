@@ -7,7 +7,7 @@ Simulations are used to generate pressure waveforms that resemble physiological 
 This repository includes engineering documentation such as a requirements traceability matrix (RTM), failure mode and effects analysis (FMEA), and verification and validation (V&V) planning. These documents are included to demonstrate how a medical device monitoring system could be designed and evaluated.
 
 
-Tools Used:
+Tools Used :
 
 MATLAB / Simulink
 
@@ -18,7 +18,7 @@ Git / GitHub
 Microsoft Excel
 
 
-Repository Structure:
+Repository Structure :
 
 simulation/ – modeling and waveform generation
 
