@@ -9,12 +9,19 @@ This repository includes engineering documentation such as a requirements tracea
 Tools Used:
 
 MATLAB / Simulink
+
 Python
-Git / GitHub for version control
+
+Git / GitHub
+
+Microsoft Excel
 
 Repository Structure:
 
 simulation/ – modeling and waveform generation
+
 documentation/ – RTM, FMEA, and validation planning
+
 data/ – sample waveform data
+
 images/ – plots and figures
