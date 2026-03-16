@@ -4,7 +4,7 @@ Simulation and measurement of arterial blood pressure signals using a simplified
 
 A Windkessel based representation is utilized. Simulations are used to generate pressure waveforms that resemble physiological arterial blood pressure signals.
 
-In addition to the simulation, this repository includes engineering documentation such as a requirements traceability matrix (RTM), failure mode and effects analysis (FMEA), and verification and validation (V&V) planning. These documents are included to demonstrate how a medical device monitoring system could be designed and evaluated.
+This repository includes engineering documentation such as a requirements traceability matrix (RTM), failure mode and effects analysis (FMEA), and verification and validation (V&V) planning. These documents are included to demonstrate how a medical device monitoring system could be designed and evaluated.
 
 Tools Used:
 
