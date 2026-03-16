@@ -1,4 +1,5 @@
-#Project 1 - In progress
+Project 1 - In progress
+
 Simulation and measurement of arterial blood pressure signals using a simplified Windkessel cardiovascular model. The goal is to simulate realistic blood pressure waveforms and examine how a monitoring system could process these signals.
 
 A Windkessel based representation is utilized. Simulations are used to generate pressure waveforms that resemble physiological arterial blood pressure signals.
