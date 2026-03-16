@@ -1,6 +1,6 @@
 Project 1 - Arterial blood pressure simulation and measurement in digital environment --- In progress
 
-Simulation and measurement of arterial blood pressure signals using a simplified Windkessel cardiovascular model. The goal is to simulate realistic blood pressure waveforms and examine how a monitoring system could process these signals.
+Ongoing Project regarding a simulation and measurement of arterial blood pressure signals using a simplified Windkessel cardiovascular model. The goal is to simulate realistic blood pressure waveforms and examine how a monitoring system could process these signals.
 
 Simulations are used to generate pressure waveforms that resemble physiological arterial blood pressure signals. Measurements are taken without including the initial true simulation values. Variations and irregularities are accounted for within the simulation.
 
