@@ -4,7 +4,7 @@
 | R2             | Include Signal variability                                              |                       |                |                  |        |
 | R3             | Pre-process to remove noise                                             |                       |                |                  |        |
 | R4             | Anti-aliasing                                                           |                       |                |                  |        |
-| R5             | Graphical output figure for simulated waveform                          |                       |                |                  |        |
+| R5             | Graphical output for simulated waveform                          |                       |                |                  |        |
 | R6             | Ensure separation between simulation ground truth and measurement path  |                       |                |                  |        |
 | R7             | Extract BP systolic/diastolic values from signal                        |                       |                |                  |        |
 | R8             | Measure BP using MAP formula and BP values                              |                       |                |                  |        |
