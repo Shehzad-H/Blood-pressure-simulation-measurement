@@ -1,6 +1,6 @@
 ## Failure Mode and Effects Analysis (FMEA)
 
-| Component / Function | Failure Mode | Cause | Effect | Severity (S) | Occurrence (O) | Detection (D) | RPN | Mitigation |
+| Component / Function | Failure Mode | Cause | Effect | Severity (S) | Occurrence (O) | Detection (D) | RPN |
 |---------------------|-------------|-------|--------|--------------|----------------|----------------|-----|-----------|
 | Signal Generation | Unrealistic/Inaccurate waveform | Inaccurate parameter choice, error in generation formula | Non-physiological waveform, misrepresentation of BP | 9 | 3 | 4 | 108
 | Signal Noise | Excessive Noise | Improper noise modelling | Signal distortion reducing measurement and simulation accuracy | 6 | 4 | 5 | 120
